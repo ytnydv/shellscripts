@@ -1,6 +1,6 @@
 #!/bin/bash
 # Declare the drive and directory variables
-drive="/dev/sdb1"
+drive="/dev/sda1"
 directory="/mnt/pve/SSD120"
 
 # Unmount the drive in case it's already mounted
