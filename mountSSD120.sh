@@ -1,7 +1,7 @@
 #!/bin/bash
 # Declare the drive and directory variables
 drive="/dev/sda1"
-directory="/mnt/SSD120"
+directory="/mnt/pve/SSD120"
 
 # Create the directory where you'd like to mount the drive
 mkdir $directory
